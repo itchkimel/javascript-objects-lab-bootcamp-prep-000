@@ -1,1 +1,3 @@
 var obj = {}
+
+function newObj = 
