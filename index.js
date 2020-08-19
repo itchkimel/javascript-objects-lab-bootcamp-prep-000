@@ -1,3 +1,3 @@
 var obj = {}
 
-function newObj = 
+function updateObjectWithKeyAndValue = 
