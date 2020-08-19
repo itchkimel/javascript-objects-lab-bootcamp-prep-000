@@ -1,3 +1,5 @@
-var obj = {}
+var obj = {key: 'value'};
 
-function updateObjectWithKeyAndValue = 
+function updateObjectWithKeyAndValue (object, key, value){
+  
+}
